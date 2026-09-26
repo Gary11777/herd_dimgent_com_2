@@ -1,0 +1,58 @@
+## 1. Company Name & Tagline
+
+* **Company**: Dimgent Technologies
+* **Tagline**: Electronics Development
+
+---
+
+## 2. What They Do
+
+* The company is a group of specialists working in the development of electronic devices. 
+* They offer two types of services:
+
+  * Full-cycle electronic device development (from concept to finished product). 
+  * Partial/specialised phases of development (e.g., circuit development, software, PCB drawings). 
+
+---
+
+## 3. Key Development Trends / Services Offered
+
+The website lists the following areas of development:
+
+* Specification / technical specifications 
+* Electric circuits 
+* Software 
+* PCB (printed circuit board) layouts/drawings 
+* Structure and design of housings (mechanical design) 
+* Test models / prototyping 
+
+---
+
+## 4. Example Project / Product Showcase
+
+* They highlight that they have developed a **magnetometer “Garand 101”**. 
+
+---
+
+## 5. Contact / Location Information
+
+* Location: Minsk, Belarus. 
+* Email: (listed but not extracted in this summary – appears under “E-mail:”). 
+* The site indicates an option for languages: English, Polish (“polska”), Russian (“русский(ru)”), Belarusian? (“русский(by)”).
+
+---
+
+## 6. Navigation / Site Structure
+
+* Main menu items: Home, Products, Services, Projects, Contacts, About Us. 
+* Site map is present at bottom with links to Home, Services, Projects, Contacts, About Us. 
+* At bottom: “Website design by Sitestar.by” is credited. 
+
+---
+
+## 7. Additional Notes
+
+* The site appears focused on custom electronics development (“on-order electronics development”). 
+* The imagery suggests a firm specialising in hardware+software integrated solutions (though details are limited).
+* The company seems based in Belarus but serves an international audience (multiple language options).
+

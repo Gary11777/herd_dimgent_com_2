@@ -1,0 +1,70 @@
+## **Product Name**
+
+**Garand 101**
+
+---
+
+## **Tagline**
+
+*A high-resolution fluxgate magnetometer*
+**“Magnetic detection can be easy and convenient!”**
+
+---
+
+## **Overview**
+
+**Garand 101** is a **high-resolution fluxgate magnetometer-gradiometer** designed to measure disruptions in the Earth's magnetic field caused by ferromagnetic objects.
+It provides reliable detection of metals such as **iron, steel, and nickel**.
+The device is designed for **one-person operation**, being **lightweight**, **user-friendly**, **reliable**, and **low-cost**.
+
+---
+
+## **Target Areas**
+
+* Archaeological research
+* Environmental monitoring
+* Forensic investigations
+* Geological studies
+* Civil engineering
+* Peace-time military applications
+
+---
+
+## **Key Technology**
+
+Garand 101 implements a **new magnetic field measurement technology** that:
+
+* Reduces **energy consumption** and **device weight**
+* Simplifies **construction** and **maintenance**
+* Increases **operating time**
+
+---
+
+## **Advantages Over Other Magnetometers**
+
+1. **Innovative magnetic field measurement technology**
+2. **Fully digital device** — improved noise stability during operation
+3. **User-friendly visualization system and interface** for easy object detection
+4. **Reliable and robust design**
+5. **Expanded detection area** due to optimized design solutions
+6. **Plug-and-play operation**
+7. **Affordable price**
+
+---
+
+## **Documentation**
+
+* **Download:** Product Presentation PDF
+* **Title:** *Product Presentation of Garand 101*
+
+---
+
+## **More Information**
+
+Visit the website: [www.gradiometr.com](http://www.gradiometr.com)
+
+---
+
+## **Media**
+
+**Photos:** Garand 101 product images
